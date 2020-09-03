@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Based on Create React App, I added several components and made a simplified shopping cart function.  
+
 ## Available Scripts
 
 In the project directory, you can run:
